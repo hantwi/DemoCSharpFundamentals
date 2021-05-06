@@ -1,0 +1,14 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\00_MorningChallenges.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\00_MorningChallenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\obj\Debug\00_MorningChallenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\obj\Debug\00_MorningChallenges.csproj.CopyComplete
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\obj\Debug\00_MorningChallenges.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\obj\Debug\00_MorningChallenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_MorningChallenges\obj\Debug\00_MorningChallenges.csprojAssemblyReference.cache
